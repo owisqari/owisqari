@@ -45,9 +45,6 @@
     <a href="https://code.visualstudio.com/">
 <img alt="owis" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
     </a>
-   
-<img alt="owis" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" width="40">
-
       <a href="https://github.com/">
 <img alt="owis" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="40">
     </a>
