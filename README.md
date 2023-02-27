@@ -51,6 +51,17 @@
 </p>
 
  ---
+ ### 🛠️ &nbsp;favourite Project;
+
+<p float="left">
+    <a href="https://github.com/peekok/talent_desire">
+     Talent_Desire
+    </a>
+      <a href="https://github.com/owisqari/valhalla">
+       Valhalla
+    </a>
+</p>
+ ---
  
 ### 🤝🏻 &nbsp;Connect with Me
 
