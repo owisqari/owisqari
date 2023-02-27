@@ -51,7 +51,7 @@
 </p>
 
  ---
- ### 🛠️ &nbsp;favourite Project;
+ ### 👨🏻‍💻 &nbsp;favourite Project;
 
 <p float="left">
     <a href="https://github.com/peekok/talent_desire">
