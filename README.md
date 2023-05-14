@@ -7,7 +7,7 @@
 
  ---
 
-### 📝 &nbsp;Langs;
+### 📝 &nbsp;Tech Stack;
 
 <p float="left">
    
