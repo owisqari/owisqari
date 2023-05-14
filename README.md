@@ -36,10 +36,7 @@
 <img alt="owis" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40">
      </a>
 </p>
- <a href="[https://reactjs.org/](https://expressjs.com/)">
-<img alt="owis" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)" width="40">
-     </a>
-</p>
+
 
  ---
  
