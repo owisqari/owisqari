@@ -8,36 +8,7 @@
  ---
 
 ### 📝 &nbsp;Tech Stack;
-
-<p float="left">
-   
-   <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="owis" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
-     </a>
-   <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="owis" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
-     </a>
-   <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="owis" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
-     </a>
-  <a href="https://getbootstrap.com/">
-<img alt="owis" src="https://devstickers.com/assets/img/pro/9g0m.png" width="40">
-    </a>
-  <a href="https://git-scm.com/">
-<img alt="owis" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-  </a>
-  <a href="https://nodejs.org/en/">
-<img alt="owis" src="https://devstickers.com/assets/img/cat/nodejs.png" width="40">
-  </a>
-  <a href="https://www.mongodb.com/">
-<img alt="owis" src="https://devstickers.com/assets/img/pro/y3fb.png" width="40">
-  </a>
-  <a href="https://reactjs.org/">
-<img alt="owis" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40">
-     </a>
-</p>
-
-
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,bootstrap,react,redux,express,docker,firebase,mongodb)](https://skillicons.dev)
  ---
  
 ### 🛠️ &nbsp;Techs;
