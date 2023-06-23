@@ -7,8 +7,12 @@
 
  ---
 
-### 📝 &nbsp;Tech Stack;
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,redux,express,docker,firebase,mongodb,git)](https://skillicons.dev)
+### 📝 &nbsp;Front End Stack;
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,redux)](https://skillicons.dev)
+
+
+### 📝 &nbsp;Back End Stack;
+[![My Skills](https://skillicons.dev/icons?i=express,docker,firebase,mongodb,git)](https://skillicons.dev)
  ---
  
 ### 🛠️ &nbsp;Techs;
