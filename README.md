@@ -8,11 +8,11 @@
  ---
 
 ### 📝 &nbsp;Front End Stack;
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,jest)](https://skillicons.dev)
 
 
 ### 📝 &nbsp;Back End Stack;
-[![My Skills](https://skillicons.dev/icons?i=express,docker,firebase,mongodb,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nestjs,docker,firebase,mongodb,prisma,postman)](https://skillicons.dev)
  ---
  
 ### 🛠️ &nbsp;Techs;
