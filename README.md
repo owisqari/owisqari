@@ -18,12 +18,12 @@
 ### 🛠️ &nbsp;Techs;
 
 <p float="left">
-    <a href="https://code.visualstudio.com/">
-<img alt="owis" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
-    </a>
-      <a href="https://github.com/">
-<img alt="owis" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="40">
-    </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+       <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
 </p>
 
  ---
