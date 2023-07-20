@@ -36,11 +36,11 @@
     </a>
     <a href="https://github.com/peekok/talent_desire">
      Talent_Desire
-        <img src="https://skillicons.dev/icons?i=java" />
+        <img src="https://skillicons.dev/icons?i=react" />
     </a>
       <a href="https://github.com/owisqari/valhalla">
        Valhalla
-          <img src="https://skillicons.dev/icons?i=react" />
+          <img src="https://skillicons.dev/icons?i=java" />
     </a>
 </p>
  ---
