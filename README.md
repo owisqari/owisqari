@@ -30,7 +30,7 @@
  ### 👨🏻‍💻 &nbsp;favourite Project;
 
 <p float="left">
-  <a href="https://github.com/owisqari/TuwaiqBoard-Client" style="display:flex; flex-direction:column; padding: 4px; margin-right:4px;">
+  <a href="https://github.com/owisqari/TuwaiqBoard-Client" style="padding: 4px; margin:4px;">
      TuwaiqBoard
    <img src="https://skillicons.dev/icons?i=nodejs" />
     </a>
