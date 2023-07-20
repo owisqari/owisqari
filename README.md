@@ -30,15 +30,15 @@
  ### 👨🏻‍💻 &nbsp;favourite Project;
 
 <p float="left">
-  <a href="https://github.com/owisqari/TuwaiqBoard-Client" style="padding: 4px;">
+  <a href="https://github.com/owisqari/TuwaiqBoard-Client" style="display:flex; flex-direction:column; padding: 4px; margin-right:4px;">
      TuwaiqBoard
    <img src="https://skillicons.dev/icons?i=nodejs" />
     </a>
-    <a href="https://github.com/peekok/talent_desire" style="padding: 4px;">
+    <a href="https://github.com/peekok/talent_desire" style="display:flex; flex-direction:column; padding: 4px; margin-right:4px;">
      Talent_Desire
         <img src="https://skillicons.dev/icons?i=java" />
     </a>
-      <a href="https://github.com/owisqari/valhalla" style="padding: 4px;">
+      <a href="https://github.com/owisqari/valhalla" style="display:flex; flex-direction:column; padding: 4px; margin-right:4px;">
        Valhalla
           <img src="https://skillicons.dev/icons?i=react" />
     </a>
